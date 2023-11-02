@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.header{
+    background-color: greenyellow;
+    height: 75px;
+    display: flex;
+}
+.img1{
+    height: 50px;
+    padding: 5px;
+    margin-left: 35px;
+}
+.header1{
+    padding: 5px;
+    margin-left: 40px;
+}
+.name{
+    padding: 9px;
+    margin-left: 420px;
+}
+.img2{
+    height: 50px;
+    padding: 10px;
+}
+.glass{
+    width: 1470px;
+    height: fit-content;
+}
+.laboratory{
+    text-align: center;
+    color: aliceblue;
+    background-image: url(ranjith.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    width:100%;
+    background-size: cover;
+}
+.me1{
+    height: 200px;
+    border-radius: 50%;
+}

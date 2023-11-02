@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.header{
+    background-color: greenyellow;
+    height: 75px;
+    display: flex;
+}
+.img1{
+    height: 50px;
+    padding: 5px;
+    margin-left: 35px;
+}
+.header1{
+    padding: 5px;
+    margin-left: 40px;
+}
+.name{
+    padding: 9px;
+    margin-left: 420px;
+}
+.img2{
+    height: 50px;
+    padding: 10px;
+}
+.box{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+    width: 200px;
+    border: 2px solid rgb(14, 134, 199);
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.btn1{
+    width: 200px;
+    background-color: rgba(66, 58, 58, 0.788);
+    color: white;
+    cursor: pointer;
+}
+.title{
+    background-color: rgb(74, 163, 237);
+}
+.set{
+    display: flex;
+}
+.set h6{
+    padding-left:20px ;
+}
+
